@@ -1,9 +1,5 @@
 <h1 align="center">Hello!, My name is Krittapas Wannawilai🧑🏻‍💻</h1>
-<h3 align="center">I am a third-year student of Kasetsart University in Faculty of Science, Major Computer Science.</h3> <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzVybTJiZDQ2dnJwOTRkb2k2djVpeDdjYzRqOGIyY2drN2JuNTRidiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif”>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kriitta&label=Profile%20views&color=0e75b6&style=flat" alt="kriitta" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kriitta" alt="kriitta" /></a> </p>
+<h3 align="center">I am a third-year student of Kasetsart University in Faculty of Science, Major Computer Science.</h3> <img align="right" alt="Coding" width="400" src="https://i.giphy.com/VbnUQpnihPSIgIXuZv.webp">
 
 - 📫 How to reach me **krittapas.ree@gmail.com**
 
